@@ -3,6 +3,8 @@
 ## Overview
 This project implements a radar data processing system using the AWR1642 device. It captures and processes radar data in real-time, providing visualization and tracking capabilities. The code is based on the python script from the people counting demo [here](https://github.com/ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2/blob/master/People%20counting%20demo/peopleCountingDemo.py)
 
+https://github.com/user-attachments/assets/22e7dc68-6993-4695-82bd-1074578001b0
+
 ## Features
 - Real-time radar data processing
 - 2D scatter plot visualization
